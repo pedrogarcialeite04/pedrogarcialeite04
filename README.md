@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Pedro Garcia 🚀
+### Full Stack Developer | Performance & 3D Web Interfaces
 
-<!--
-**pedrogarcialeite04/pedrogarcialeite04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de software focado em **High-Performance Web** e **Sistemas Embarcados**.
+Combino a robustez do **C/C++** com a interatividade moderna do **Node.js/GSAP**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+**Core:** `C` `C++` `JavaScript (ES6+)` `PHP`
+**Backend:** `Node.js` `SQL` `Supabase`
+**Frontend:** `Three.js` `GSAP` `HTML5/CSS3`
+
+---
+
+### 🏆 Projetos em Destaque
+- **[PGFlow (SaaS Financeiro)](link-do-repo)**: Dashboard financeiro com visualização de dados 3D, animações GSAP "Warp Speed" e arquitetura otimizada.
+- **[MadeInBrasa (Client Work)](link-do-repo)**: Sistema de gestão de pedidos com backend PHP e alta conversão.
