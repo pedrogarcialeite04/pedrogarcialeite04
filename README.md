@@ -15,4 +15,4 @@ Combino a robustez do **C/C++** com a interatividade moderna do **Node.js/GSAP**
 
 ### 🏆 Projetos em Destaque
 - **[PGFlow (SaaS Financeiro)](link-do-repo)**: Dashboard financeiro com visualização de dados 3D, animações GSAP "Warp Speed" e arquitetura otimizada.
-- **[MadeInBrasa (Client Work)](link-do-repo)**: Sistema de gestão de pedidos com backend PHP e alta conversão.
+- **[MadeInBrasa (Client Work)](link-do-repo)**: Sistema de gestão de pedidos com backend Node.js e alta conversão.
