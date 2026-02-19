@@ -14,5 +14,5 @@ Engenheiro de software focado em **High-Performance Web** e **Sistemas Embarcado
 ---
 
 ### 🏆 Projetos em Destaque
-- **[PGFlow (SaaS Financeiro)]((https://pgflow.vercel.app/))**: Dashboard financeiro com visualização de dados 3D, animações GSAP "Warp Speed" e arquitetura otimizada.
+- **[PGFlow (SaaS Financeiro)](https://pgflow.vercel.app/)**: Dashboard financeiro com visualização de dados 3D, animações GSAP "Warp Speed" e arquitetura otimizada.
 - **[MadeInBrasa (Client Work)](https://madeinbrasa-os.vercel.app/)**: Sistema de gestão de pedidos com backend Node.js e alta conversão.
