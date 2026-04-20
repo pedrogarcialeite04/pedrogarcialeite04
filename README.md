@@ -1,7 +1,7 @@
-# Olá, eu sou Pedro Garcia 🚀
+# Olá, eu sou Pedro Garcia 
 ### Full Stack Developer | Performance & 3D Web Interfaces
 
-Engenheiro de software focado em **High-Performance Web** e **Sistemas Embarcados**.
+Programador focado em **High-Performance Web** e **Sistemas Embarcados**.
 
 
 ---
@@ -13,6 +13,5 @@ Engenheiro de software focado em **High-Performance Web** e **Sistemas Embarcado
 
 ---
 
-### 🏆 Projetos em Destaque
-- **[PGFlow (SaaS Financeiro)](https://pgflow.vercel.app/)**: Dashboard financeiro com visualização de dados 3D, animações GSAP "Warp Speed" e arquitetura otimizada.
-- **[MadeInBrasa (Client Work)](https://madeinbrasa-os.vercel.app/)**: Sistema de gestão de pedidos com backend Node.js e alta conversão.
+### 🏆 Projeto em Destaque
+- **[Meu portfólio](https://www.pedrogarciadev.com.br/)**: Portfólio interativo com animaçoes Gsap e Three.js, feito para demonstrar meus conhecimentos
