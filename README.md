@@ -4,13 +4,13 @@
 
   <br/>
 
-  <a href="[INSERIR SEU LINK LINKEDIN AQUI]">
+  <a href="www.linkedin.com/in/pedrogarcia-tech">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[INSERIR SEU LINK INSTAGRAM AQUI]">
+  <a href="https://www.instagram.com/pedrocadev?igsh=MTQ5Z3k2a2IwMjB3Mg%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="[INSERIR SEU LINK TIKTOK AQUI]">
+  <a href="https://www.tiktok.com/@pedrogarciadev">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 
@@ -37,8 +37,9 @@ Hi there! I'm **Pedro Garcia**, a Computer Science student with a strong focus o
 
 <div align="center">
 
-  <a href="[INSERIR LINK DO DEPLOY AQUI]">
-    <img src="[INSERIR GIF OU IMAGEM DE PREVIEW AQUI]" alt="Portfolio Preview" width="720" style="border-radius: 10px;" />
+  <a href="https://www.pedrogarciadev.com.br/">
+    <img src="<img width="1440" height="900" alt="Captura de Tela (653)" src="https://github.com/user-attachments/assets/c68fe656-c494-45f0-81f7-ac87295b1686" />
+" alt="Portfolio Preview" width="720" style="border-radius: 10px;" />
   </a>
 
   <br/><br/>
@@ -51,11 +52,11 @@ Hi there! I'm **Pedro Garcia**, a Computer Science student with a strong focus o
 
   <br/>
 
-  <a href="[INSERIR LINK DO DEPLOY AQUI]">
+  <a href="https://www.pedrogarciadev.com.br/">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-6C63FF?style=for-the-badge&logoColor=white" alt="Live Demo" />
   </a>
   &nbsp;
-  <a href="[INSERIR LINK DO REPOSITÓRIO AQUI]">
+  <a href="https://github.com/pedrogarcialeite04/meuportfolio">
     <img src="https://img.shields.io/badge/📂%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
 
