@@ -1,166 +1,266 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=200&section=header&text=Pedro%20Garcia&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=Front-end%20Developer%20%E2%80%A2%20CS%20Student&descAlignY=67&descSize=17&animation=fadeIn&stroke=6C63FF&strokeWidth=2" width="100%" />
-</div>
-
+<!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 <div align="center">
 
-  <a href="https://www.pedrogarciadev.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20pedrogarciadev.com.br-6C63FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3b2f8f,100:6C63FF&height=230&section=header&text=Pedro%20Garcia&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20SaaS%20%C2%B7%20IA%20%C2%B7%20Web%20Imersiva&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Pedro Garcia — Full Stack Developer" />
 
-  <br/><br/>
+<a href="https://www.pedrogarciadev.com.br/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=640&height=44&lines=Do+banco+de+dados+ao+pixel+%E2%80%94+ponta+a+ponta.;APIs+seguras+em+Node.js+%2B+MongoDB+%F0%9F%94%90;Agentes+de+IA+no+WhatsApp+em+produ%C3%A7%C3%A3o+%F0%9F%A4%96;Experi%C3%AAncias+3D+com+Three.js+%26+GSAP+%E2%9C%A8;Shipping+desde+o+primeiro+commit+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-  <a href="https://www.linkedin.com/in/pedrogarcia-tech" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/pedrocadev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F" height="28" alt="Instagram" />
-  </a>&nbsp;
-  <a href="https://www.tiktok.com/@pedrogarciadev" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white&labelColor=000000" height="28" alt="TikTok" />
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=pedrogarcialeite04&style=flat-square&color=6C63FF&label=profile+views" height="28" alt="Profile Views" />
+<br/>
 
-  <br/><br/>
+<a href="https://www.pedrogarciadev.com.br/"><img src="https://img.shields.io/badge/Portfólio-pedrogarciadev.com.br-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" alt="Portfólio" /></a>
+<a href="https://www.linkedin.com/in/pedrogarcia-tech"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/pedrocadev"><img src="https://img.shields.io/badge/Instagram-@pedrocadev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b27" alt="Instagram" /></a>
+<a href="https://www.tiktok.com/@pedrogarciadev"><img src="https://img.shields.io/badge/TikTok-@pedrogarciadev-ff0050?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1a1b27" alt="TikTok" /></a>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=580&height=40&lines=Turning+ideas+into+interfaces+%F0%9F%9A%80;Obsessed+with+great+UX+%26+clean+code+%E2%9C%A8;Building+things+that+matter+%F0%9F%8C%8D;Always+shipping%2C+always+learning+%F0%9F%93%A6" alt="Typing SVG" />
+<br/>
+
+<img src="https://img.shields.io/badge/status-dispon%C3%ADvel%20para%20projetos-2ea043?style=flat-square&labelColor=1a1b27" alt="Disponível" />
+<img src="https://img.shields.io/badge/local-Monte%20Aprazível%2C%20SP%20%C2%B7%20Remoto-6C63FF?style=flat-square&labelColor=1a1b27" alt="Localização" />
+<img src="https://komarev.com/ghpvc/?username=pedrogarcialeite04&style=flat-square&color=6C63FF&label=visitas" alt="Visitas" />
 
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════════════  SOBRE  ═══════════════════════════════ -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogarcialeite04&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=6" width="290" />
+## ⚡ Sobre mim
 
-### 👋 Hey, I'm Pedro
+Sou **desenvolvedor Full Stack** e construo produtos completos — da modelagem do banco e da API até a interface que o usuário toca. Meu trabalho vive no cruzamento entre **engenharia sólida** e **experiência memorável**: sistemas SaaS com autenticação, painéis administrativos, integrações com **WhatsApp e IA generativa** rodando em produção, e front-ends imersivos com **Three.js** e **GSAP**.
 
-Estudante de **Ciência da Computação** apaixonado por construir interfaces que unem **design e engenharia**. Acredito que um bom produto vai além do código — está na experiência que ele proporciona.
-
-<br/>
-
-```typescript
-const pedro = {
-  role:      "Front-end Developer & CS Student",
-  focus:     ["React", "TypeScript", "UI/UX", "Performance"],
-  studying:  ["Algorithms", "Data Structures", "C / C#"],
-  building:  "pedrogarciadev.com.br",
-  available: true // open to opportunities ✅
+```js
+// pedro.config.js
+export default {
+  role:       "Full Stack Developer",
+  location:   "Monte Aprazível, SP · remoto",
+  frontend:   ["JavaScript", "TypeScript", "HTML/CSS/SCSS", "Three.js", "GSAP"],
+  backend:    ["Node.js", "Express", "Python", "FastAPI", "Serverless (Vercel Functions)"],
+  data:       ["MongoDB", "PostgreSQL", "Redis", "Firebird"],
+  ai:         ["Gemini / Vertex AI", "Groq (Llama + Whisper)", "WhatsApp Cloud API"],
+  infra:      ["Docker", "filas com workers (arq)", "Sentry", "GitHub Actions"],
+  security:   ["JWT", "bcrypt", "Helmet", "Rate limiting", "Sanitização (XSS / NoSQL injection)"],
+  shipping:   ["Vercel", "Render", "Git"],
+  mindset:    "produção primeiro: seguro, observável, rápido",
+  available:  true,
 };
 ```
 
-<br/>
+<!-- ═══════════════════════════════  O QUE ENTREGO  ═══════════════════════════════ -->
 
-**Right now I'm:**
-- 🔭 &nbsp;Refinando meu **portfólio** com novas animações e projetos
-- 🧠 &nbsp;Aprofundando **TypeScript avançado** e arquitetura de componentes
-- 📚 &nbsp;Estudando **Estruturas de Dados & Algoritmos** na faculdade
-- 🤝 &nbsp;Aberto a **colaborações** em projetos front-end
-
-<br/><br/>
-
----
-
-## 🌟 &nbsp;Projeto em Destaque
-
-<div align="center">
-
-<a href="https://www.pedrogarciadev.com.br/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/c68fe656-c494-45f0-81f7-ac87295b1686" alt="Pedro Garcia Dev — Portfolio" width="780" style="border-radius:12px;" />
-</a>
-
-<br/><br/>
+## 🧭 O que eu entrego
 
 <table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
-<sub><b>Component Architecture</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" /><br/>
-<sub><b>Responsive Design</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
-<sub><b>Type-safe Codebase</b></sub>
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎨 Front-end</h3>
+      Interfaces responsivas, animadas e rápidas. Cenas 3D em <b>Three.js</b>, scroll storytelling com <b>GSAP ScrollTrigger / SplitText</b> e micro-interações que fazem o produto parecer vivo.
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Back-end</h3>
+      APIs em <b>Node.js/Express</b> e <b>Python/FastAPI</b>, filas com workers, PostgreSQL e MongoDB, JWT, validação, rate limit, Helmet, upload e processamento de imagem (<b>Multer + Sharp</b>) e logs estruturados (<b>Winston</b>).
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 IA & Automação</h3>
+      Agentes conversacionais no <b>WhatsApp</b> com <b>Gemini</b>, base de conhecimento editável, guarda contra prompt injection e <b>handoff para atendente humano</b> em tempo real.
+    </td>
+  </tr>
 </table>
 
-<p>
-  Portfólio pessoal com foco em <strong>performance</strong>, <strong>micro-interações</strong> e design limpo.<br/>
-  Cada detalhe foi pensado — do scroll ao Lighthouse score.
-</p>
+<!-- ═══════════════════════════════  CASE  ═══════════════════════════════ -->
 
-<a href="https://www.pedrogarciadev.com.br/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-6C63FF?style=for-the-badge&logoColor=white" alt="Live Demo" />
-</a>
-&nbsp;
-<a href="https://github.com/pedrogarcialeite04/meuportfolio" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%93%82%20Source%20Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-</a>
+## 🏆 Case em produção — Plataforma de atendimento com IA
 
-</div>
+> Projeto privado para cliente · **em produção** · serverless + painel em tempo real
 
----
+Assistente virtual que atende clientes no **site e no WhatsApp**, responde com base em conhecimento curado pela equipe e, quando precisa, **transfere a conversa para um atendente humano** — que responde por um painel web com push notification, citação de mensagens, foto e áudio.
 
-## 🛠️ &nbsp;Tech Stack
+```mermaid
+flowchart LR
+    U(["👤 Cliente"]) -->|WhatsApp| W["WhatsApp Cloud API"]
+    U -->|Site| S["Chat web"]
+    W --> H["Webhook · Vercel Functions"]
+    S --> H
+    H --> G{"Prompt guard\n+ rate limit"}
+    G --> AI["🧠 Gemini / Vertex AI"]
+    AI <--> KB[("📚 Base de\nconhecimento")]
+    H <--> R[("⚡ Redis\nsessões · fila · estado")]
+    H -->|handoff| P["🧑‍💼 Painel do atendente\nRender · Web Push"]
+    P <--> DB[("🗄️ Firebird\nERP do cliente")]
+    T["🛠️ Admin de treino\nExpress · Blob"] --> KB
+```
+
+<sub>**Destaques de engenharia:** autenticação de sessão própria · proteção contra prompt injection · fila de atendimento com expediente e renovação automática via cron · agrupamento de mensagens em rajada · mídia (foto/áudio) com prazo · observabilidade e verificação de origem.</sub>
+
+<!-- ═══════════════════════════════  PROJETOS  ═══════════════════════════════ -->
+
+## 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 SaaS de Cheques</h3>
+      Sistema SaaS para gestão e controle de cheques, com interface animada (GSAP) e elementos 3D.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+      <br/><br/>
+      <a href="https://saa-s-cheques.vercel.app">🌐 Demo</a> · <a href="https://github.com/pedrogarcialeite04/SaaS-cheques">📂 Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ Museu 3D</h3>
+      Museu virtual navegável no navegador: cena WebGL com iluminação, tone mapping ACES e transições cinematográficas.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+      <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <br/><br/>
+      <a href="https://museupedroca.vercel.app">🌐 Demo</a> · <a href="https://github.com/pedrogarcialeite04/museu3d">📂 Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Plataforma FJR — site + painel + API</h3>
+      Produto completo em 3 camadas: landing, painel administrativo e API com JWT em cookie, bcrypt, Helmet, rate limit, sanitização contra XSS/NoSQL injection, upload com Sharp e logs com Winston.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      <br/><br/>
+      <a href="https://teste-remoto.vercel.app">🌐 Site</a> · <a href="https://paineladmfjr.vercel.app">🧑‍💼 Painel</a> · <a href="https://github.com/pedrogarcialeite04/backend-fjr">📂 API</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 Assistente Financeiro no WhatsApp</h3>
+      Agente que entende <b>texto e áudio</b> (Whisper), registra gastos e receitas e responde com relatórios e alertas de orçamento. Webhook com validação HMAC responde em ms e enfileira; o <b>worker</b> processa com idempotência e lock.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/pedrogarcialeite04/bot_whatsapp">📂 Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💍 Plataforma de Casamento</h3>
+      Convite digital + painel administrativo + API serverless de confirmação de presença (RSVP), com token de admin e CORS restrito por origem.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <br/><br/>
+      <a href="https://convite-nu-cyan.vercel.app">🌐 Convite</a> · <a href="https://paginaadm-casamento.vercel.app">🧑‍💼 Admin</a> · <a href="https://github.com/pedrogarcialeite04/backend-casamento">📂 Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Foco — app de produtividade</h3>
+      Aplicação full stack com contas de usuário, autenticação JWT e API protegida com Helmet e rate limiting.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+      <br/><br/>
+      <a href="https://foco-delta.vercel.app">🌐 Demo</a> · <a href="https://github.com/pedrogarcialeite04/app-foco">📂 Front</a> · <a href="https://github.com/pedrogarcialeite04/backend-foco">📂 API</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>📦 Mais projetos</b></summary>
+<br/>
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**PGFlow**](https://pgflow.vercel.app) | Dashboard com gráficos e fundo 3D de partículas | Three.js · Chart.js · GSAP |
+| [**Portfólio**](https://www.pedrogarciadev.com.br) | Meu portfólio — performance e micro-interações | Three.js · GSAP · AOS |
+| [**Theze Sistema**](https://github.com/pedrogarcialeite04/theze-sistema) | Sistema de gestão local rodando como serviço Windows | Node.js · Express · node-windows |
+| [**Spider-Man LP**](https://github.com/pedrogarcialeite04/homem-aranha-lp) | Landing cinematográfica guiada pelo scroll | GSAP ScrollSmoother · SplitText |
+| [**Theze Caminhão**](https://github.com/pedrogarcialeite04/theze-caminhao) | Gestão de serviços de caminhão prancha | JavaScript · GSAP |
+| [**Armazenamento de notas**](https://github.com/pedrogarcialeite04/sistema-de-armazenamento-de-dados) | Organização e armazenamento de notas fiscais | JavaScript |
+| [**Sistema de Posto**](https://github.com/pedrogarcialeite04/projeto-de-posto-) | Login e registro de abastecimentos | HTML · CSS · JS |
+
+</details>
+
+<!-- ═══════════════════════════════  STACK  ═══════════════════════════════ -->
+
+## 🛠️ Stack
 
 <div align="center">
 
-**⚡ Core — Daily Drivers**
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-
-<br/><br/>
-
-**🎨 Markup & Styling**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<br/><br/>
-
-**🔧 Tooling**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/><br/>
-
-**🎓 University (Academic)**
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-
-</div>
-
----
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrogarcialeite04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&rank_icon=github&card_width=420" height="175" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pedrogarcialeite04&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=6e7681" height="175" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrogarcialeite04&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true&radius=8" width="98%" alt="Activity Graph" />
+<table>
+  <tr>
+    <td align="center"><b>Front-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,threejs&perline=8" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="44" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Back-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php&perline=8" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Dados</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&perline=8" /> <img src="https://img.shields.io/badge/Firebird-F40F02?style=for-the-badge&logo=firebird&logoColor=white" height="44" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>IA & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=gcp,vercel,docker&perline=8" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="44" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="44" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Ferramentas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,figma&perline=8" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Acadêmico</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cs&perline=8" /></td>
+  </tr>
+</table>
 
 </div>
 
----
+<!-- ═══════════════════════════════  PRINCÍPIOS  ═══════════════════════════════ -->
+
+## 🧠 Como eu trabalho
+
+- **Segurança por padrão** — nada vai pra produção sem autenticação, validação de entrada, rate limit e segredos fora do código.
+- **Produção é a fonte da verdade** — logs, observabilidade e testes de regressão antes de cada deploy.
+- **Performance é feature** — animação a 60 fps, assets otimizados e serverless onde faz sentido.
+- **Código que outro dev entende** — documentação viva, commits descritivos e decisões registradas.
+
+<!-- ═══════════════════════════════  MÉTRICAS  ═══════════════════════════════ -->
+
+## 📊 Atividade
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&reversal=false" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogarcialeite04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&card_width=520&custom_title=Linguagens%20mais%20usadas" width="520" alt="Top Langs" />
 
-  <sub>Crafted with ♥ and TypeScript · <a href="https://www.pedrogarciadev.com.br/">pedrogarciadev.com.br</a></sub>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrogarcialeite04/pedrogarcialeite04/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrogarcialeite04/pedrogarcialeite04/output/github-snake.svg" />
+  <img alt="Snake comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/pedrogarcialeite04/pedrogarcialeite04/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<!-- ═══════════════════════════════  CTA + FOOTER  ═══════════════════════════════ -->
+
+<div align="center">
+
+### 🤝 Vamos construir algo juntos?
+
+Tem um SaaS, uma automação com IA ou uma experiência web que precisa sair do papel?
+
+<a href="https://www.pedrogarciadev.com.br/"><img src="https://img.shields.io/badge/Fale%20comigo-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Fale comigo" /></a>
+<a href="https://www.linkedin.com/in/pedrogarcia-tech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,55:3b2f8f,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
